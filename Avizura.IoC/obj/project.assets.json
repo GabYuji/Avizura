@@ -25,17 +25,17 @@
           "bin/placeholder/Avizura.Domain.dll": {}
         }
       },
-      "Avizura.Repository/1.0.0": {
+      "Avizura.Infra.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "Avizura.Domain": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Avizura.Repository.dll": {}
+          "bin/placeholder/Avizura.Infra.Data.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Avizura.Repository.dll": {}
+          "bin/placeholder/Avizura.Infra.Data.dll": {}
         }
       }
     }
@@ -51,17 +51,17 @@
       "path": "../Avizura.Domain/Avizura.Domain.csproj",
       "msbuildProject": "../Avizura.Domain/Avizura.Domain.csproj"
     },
-    "Avizura.Repository/1.0.0": {
+    "Avizura.Infra.Data/1.0.0": {
       "type": "project",
-      "path": "../Avizura.Repository/Avizura.Repository.csproj",
-      "msbuildProject": "../Avizura.Repository/Avizura.Repository.csproj"
+      "path": "../Avizura.Infra.Data/Avizura.Infra.Data.csproj",
+      "msbuildProject": "../Avizura.Infra.Data/Avizura.Infra.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Avizura.Application >= 1.0.0",
       "Avizura.Domain >= 1.0.0",
-      "Avizura.Repository >= 1.0.0"
+      "Avizura.Infra.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -102,8 +102,8 @@
             "C:\\Users\\Gabriel\\Projects\\AplicacaoAvizura\\Avizura.Domain\\Avizura.Domain.csproj": {
               "projectPath": "C:\\Users\\Gabriel\\Projects\\AplicacaoAvizura\\Avizura.Domain\\Avizura.Domain.csproj"
             },
-            "C:\\Users\\Gabriel\\Projects\\AplicacaoAvizura\\Avizura.Repository\\Avizura.Repository.csproj": {
-              "projectPath": "C:\\Users\\Gabriel\\Projects\\AplicacaoAvizura\\Avizura.Repository\\Avizura.Repository.csproj"
+            "C:\\Users\\Gabriel\\Projects\\AplicacaoAvizura\\Avizura.Infra.Data\\Avizura.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\Gabriel\\Projects\\AplicacaoAvizura\\Avizura.Infra.Data\\Avizura.Infra.Data.csproj"
             }
           }
         }

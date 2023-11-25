@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Avizura.Domain/1.0.0": {
+        "runtime": {
+          "Avizura.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avizura.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

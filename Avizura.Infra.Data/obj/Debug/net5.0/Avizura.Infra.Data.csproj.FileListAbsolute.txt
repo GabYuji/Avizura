@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\bin\Debug\net5.0\Avizura.Infra.Data.deps.json
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\bin\Debug\net5.0\Avizura.Infra.Data.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\bin\Debug\net5.0\Avizura.Infra.Data.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\bin\Debug\net5.0\Avizura.Domain.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\bin\Debug\net5.0\Avizura.Domain.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.AssemblyInfo.cs
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.csproj.CopyComplete
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\refint\Avizura.Infra.Data.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\Avizura.Infra.Data.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Infra.Data\obj\Debug\net5.0\ref\Avizura.Infra.Data.dll

@@ -4,4 +4,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Avizura.Application\Avizura.Application.csproj" />
+    <ProjectReference Include="..\Avizura.Domain\Avizura.Domain.csproj" />
+    <ProjectReference Include="..\Avizura.Infra.Data\Avizura.Infra.Data.csproj" />
+  </ItemGroup>
+
 </Project>

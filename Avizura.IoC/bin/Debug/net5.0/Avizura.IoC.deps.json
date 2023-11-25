@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Avizura.IoC/1.0.0": {
+        "dependencies": {
+          "Avizura.Application": "1.0.0",
+          "Avizura.Domain": "1.0.0",
+          "Avizura.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "Avizura.IoC.dll": {}
+        }
+      },
+      "Avizura.Application/1.0.0": {
+        "dependencies": {
+          "Avizura.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Avizura.Application.dll": {}
+        }
+      },
+      "Avizura.Domain/1.0.0": {
+        "runtime": {
+          "Avizura.Domain.dll": {}
+        }
+      },
+      "Avizura.Infra.Data/1.0.0": {
+        "dependencies": {
+          "Avizura.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Avizura.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avizura.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avizura.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avizura.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Avizura.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

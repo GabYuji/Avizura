@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\bin\Debug\net5.0\Avizura.Domain.deps.json
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\bin\Debug\net5.0\Avizura.Domain.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\bin\Debug\net5.0\Avizura.Domain.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\Avizura.Domain.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\Avizura.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\Avizura.Domain.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\Avizura.Domain.AssemblyInfo.cs
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\Avizura.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\Avizura.Domain.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\refint\Avizura.Domain.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\Avizura.Domain.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Domain\obj\Debug\net5.0\ref\Avizura.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\bin\Debug\net5.0\Avizura.Application.deps.json
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\bin\Debug\net5.0\Avizura.Application.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\bin\Debug\net5.0\Avizura.Application.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\bin\Debug\net5.0\Avizura.Domain.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\bin\Debug\net5.0\Avizura.Domain.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.AssemblyInfo.cs
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.csproj.CopyComplete
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\refint\Avizura.Application.dll
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\Avizura.Application.pdb
+C:\Users\Gabriel\Projects\AplicacaoAvizura\Avizura.Application\obj\Debug\net5.0\ref\Avizura.Application.dll
